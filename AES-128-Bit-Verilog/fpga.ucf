@@ -1,0 +1,9 @@
+NET "clk" LOC = "B8";
+NET "finalout[0]" LOC = "J14";
+NET "finalout[1]" LOC = "J15";
+NET "finalout[2]" LOC = "K15";
+NET "finalout[3]" LOC = "K14";
+NET "finalout[4]" LOC = "E17";
+NET "finalout[5]" LOC = "P15";
+NET "finalout[6]" LOC = "F4";
+NET "finalout[7]" LOC = "R4";
